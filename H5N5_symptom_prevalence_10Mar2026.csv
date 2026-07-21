@@ -1,0 +1,169 @@
+Virus,Ferret,Day,symptom,symptom_present
+WA2148,T9596,0,Nas Dis,0
+WA2148,T9596,0,snz,0
+WA2148,T9596,0,diah,0
+WA2148,T9596,0,lack of grooming,0
+WA2148,T9596,0,hunched,0
+WA2148,T9596,0,grimace,0
+WA2148,T9596,1,Nas Dis,0
+WA2148,T9596,1,snz,0
+WA2148,T9596,1,diah,0
+WA2148,T9596,1,lack of grooming,0
+WA2148,T9596,1,hunched,0
+WA2148,T9596,1,grimace,0
+WA2148,T9596,2,Nas Dis,0
+WA2148,T9596,2,snz,0
+WA2148,T9596,2,diah,1
+WA2148,T9596,2,lack of grooming,0
+WA2148,T9596,2,hunched,0
+WA2148,T9596,2,grimace,0
+WA2148,T9596,3,Nas Dis,0
+WA2148,T9596,3,snz,0
+WA2148,T9596,3,diah,0
+WA2148,T9596,3,lack of grooming,0
+WA2148,T9596,3,hunched,0
+WA2148,T9596,3,grimace,0
+WA2148,T9596,4,Nas Dis,0
+WA2148,T9596,4,snz,0
+WA2148,T9596,4,diah,0
+WA2148,T9596,4,lack of grooming,1
+WA2148,T9596,4,hunched,0
+WA2148,T9596,4,grimace,0
+WA2148,T9596,5,Nas Dis,1
+WA2148,T9596,5,snz,0
+WA2148,T9596,5,diah,1
+WA2148,T9596,5,lack of grooming,1
+WA2148,T9596,5,hunched,0
+WA2148,T9596,5,grimace,0
+WA2148,T9596,6,Nas Dis,1
+WA2148,T9596,6,snz,0
+WA2148,T9596,6,diah,0
+WA2148,T9596,6,lack of grooming,0
+WA2148,T9596,6,hunched,0
+WA2148,T9596,6,grimace,0
+WA2148,T9596,7,Nas Dis,1
+WA2148,T9596,7,snz,0
+WA2148,T9596,7,diah,0
+WA2148,T9596,7,lack of grooming,1
+WA2148,T9596,7,hunched,1
+WA2148,T9596,7,grimace,1
+WA2148,T9598,0,Nas Dis,0
+WA2148,T9598,0,snz,0
+WA2148,T9598,0,diah,0
+WA2148,T9598,0,lack of grooming,0
+WA2148,T9598,0,hunched,0
+WA2148,T9598,0,grimace,0
+WA2148,T9598,1,Nas Dis,0
+WA2148,T9598,1,snz,0
+WA2148,T9598,1,diah,0
+WA2148,T9598,1,lack of grooming,0
+WA2148,T9598,1,hunched,0
+WA2148,T9598,1,grimace,0
+WA2148,T9598,2,Nas Dis,0
+WA2148,T9598,2,snz,0
+WA2148,T9598,2,diah,0
+WA2148,T9598,2,lack of grooming,0
+WA2148,T9598,2,hunched,0
+WA2148,T9598,2,grimace,1
+WA2148,T9598,3,Nas Dis,0
+WA2148,T9598,3,snz,0
+WA2148,T9598,3,diah,1
+WA2148,T9598,3,lack of grooming,0
+WA2148,T9598,3,hunched,0
+WA2148,T9598,3,grimace,0
+WA2148,T9598,4,Nas Dis,1
+WA2148,T9598,4,snz,0
+WA2148,T9598,4,diah,1
+WA2148,T9598,4,lack of grooming,0
+WA2148,T9598,4,hunched,0
+WA2148,T9598,4,grimace,1
+WA2148,T9598,5,Nas Dis,1
+WA2148,T9598,5,snz,0
+WA2148,T9598,5,diah,1
+WA2148,T9598,5,lack of grooming,0
+WA2148,T9598,5,hunched,0
+WA2148,T9598,5,grimace,0
+WA2148,T9598,6,Nas Dis,1
+WA2148,T9598,6,snz,0
+WA2148,T9598,6,diah,1
+WA2148,T9598,6,lack of grooming,0
+WA2148,T9598,6,hunched,0
+WA2148,T9598,6,grimace,1
+WA2148,T9598,7,Nas Dis,1
+WA2148,T9598,7,snz,0
+WA2148,T9598,7,diah,1
+WA2148,T9598,7,lack of grooming,1
+WA2148,T9598,7,hunched,1
+WA2148,T9598,7,grimace,1
+WA2148,T9600,0,Nas Dis,0
+WA2148,T9600,0,snz,0
+WA2148,T9600,0,diah,0
+WA2148,T9600,0,lack of grooming,0
+WA2148,T9600,0,hunched,0
+WA2148,T9600,0,grimace,0
+WA2148,T9600,1,Nas Dis,0
+WA2148,T9600,1,snz,0
+WA2148,T9600,1,diah,0
+WA2148,T9600,1,lack of grooming,0
+WA2148,T9600,1,hunched,0
+WA2148,T9600,1,grimace,0
+WA2148,T9600,2,Nas Dis,1
+WA2148,T9600,2,snz,0
+WA2148,T9600,2,diah,0
+WA2148,T9600,2,lack of grooming,0
+WA2148,T9600,2,hunched,0
+WA2148,T9600,2,grimace,0
+WA2148,T9600,3,Nas Dis,1
+WA2148,T9600,3,snz,0
+WA2148,T9600,3,diah,1
+WA2148,T9600,3,lack of grooming,1
+WA2148,T9600,3,hunched,1
+WA2148,T9600,3,grimace,1
+WA2148,T9600,4,Nas Dis,
+WA2148,T9600,4,snz,
+WA2148,T9600,4,diah,
+WA2148,T9600,4,lack of grooming,
+WA2148,T9600,4,hunched,
+WA2148,T9600,4,grimace,
+WA2148,T9600,5,Nas Dis,
+WA2148,T9600,5,snz,
+WA2148,T9600,5,diah,
+WA2148,T9600,5,lack of grooming,
+WA2148,T9600,5,hunched,
+WA2148,T9600,5,grimace,
+WA2148,T9600,6,Nas Dis,
+WA2148,T9600,6,snz,
+WA2148,T9600,6,diah,
+WA2148,T9600,6,lack of grooming,
+WA2148,T9600,6,hunched,
+WA2148,T9600,6,grimace,
+WA2148,T9600,7,Nas Dis,
+WA2148,T9600,7,snz,
+WA2148,T9600,7,diah,
+WA2148,T9600,7,lack of grooming,
+WA2148,T9600,7,hunched,
+WA2148,T9600,7,grimace,
+WA2148,T9596,0,lethargy,0
+WA2148,T9598,0,lethargy,0
+WA2148,T9600,0,lethargy,0
+WA2148,T9596,1,lethargy,0
+WA2148,T9598,1,lethargy,0
+WA2148,T9600,1,lethargy,0
+WA2148,T9596,2,lethargy,0
+WA2148,T9598,2,lethargy,0
+WA2148,T9600,2,lethargy,0
+WA2148,T9596,3,lethargy,1
+WA2148,T9598,3,lethargy,0
+WA2148,T9600,3,lethargy,1
+WA2148,T9596,4,lethargy,1
+WA2148,T9598,4,lethargy,1
+WA2148,T9600,4,lethargy,
+WA2148,T9596,5,lethargy,1
+WA2148,T9598,5,lethargy,1
+WA2148,T9600,5,lethargy,
+WA2148,T9596,6,lethargy,0
+WA2148,T9598,6,lethargy,1
+WA2148,T9600,6,lethargy,
+WA2148,T9596,7,lethargy,1
+WA2148,T9598,7,lethargy,1
+WA2148,T9600,7,lethargy,
